@@ -2,8 +2,9 @@
 ### System Requirement
 - Windows 10 (64-bit)
 - 16 GB RAM, SSD
-- Android Studio
 - OpenJDK: 17
+- Android Studio
+- Visual Studio Code
 - Flutter: 3.16.2  
 - Dart: 3.2.2
 ---
