@@ -1,6 +1,12 @@
 # Flutter Handover App
-Flutter: 3.16.2  
-Dart: 3.2.2
+### System Requirement
+- Windows 10 (64-bit)
+- 16 GB RAM, SSD
+- Android Studio
+- OpenJDK: 17
+- Flutter: 3.16.2  
+- Dart: 3.2.2
+---
 
 ### 1. Create a Flutter app
 * Run in the terminal
